@@ -21,10 +21,8 @@ The home page (`index.html`) includes a form where users can enter the product n
 The result page (`result.html`) displays the scraped reviews for the specified product. Each review includes the reviewer's name, rating, comment header, and comment text.
 
 ## Screenshots
-## Screenshots
-- ![Home Page](https://raw.githubusercontent.com/SaatoruGojo/Flipkart-Scraper/master/screenshots/home_page.png)
-- ![Result Page](https://raw.githubusercontent.com/SaatoruGojo/Flipkart-Scraper/master/screenshots/result_page.png)
-
+- [Home Page](screenshots/home.png)
+- [Result Page](screenshots/result.png)
 
 **Note:** Screenshots are included in the `screenshots` directory for reference.
 
